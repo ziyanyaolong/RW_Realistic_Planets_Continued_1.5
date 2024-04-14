@@ -1,0 +1,23 @@
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Fan-Update-1.1.0/1.3/Assemblies/Realistic_Planets_Continued.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Fan-Update-1.1.0/1.3/Assemblies/Realistic_Planets_Continued.pdb
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Fan-Update-1.1.0/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Fan-Update-1.1.0/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Fan-Update-1.1.0/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.pdb
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/1.3/Assemblies/Realistic_Planets_Continued.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/1.3/Assemblies/Realistic_Planets_Continued.pdb
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.csprojAssemblyReference.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/RW-Realistic-Planets-Continued/Source/Realistic Planets/Realistic_Planets_Continued/Realistic_Planets_Continued/obj/Debug/Realistic_Planets_Continued.pdb
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\1.4\Assemblies\Realistic_Planets_Continued.dll
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\1.4\Assemblies\Realistic_Planets_Continued.pdb
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.csproj.AssemblyReference.cache
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.csproj.CoreCompileInputs.cache
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.dll
+K:\CodeProject\GithubPullOther\RW_Realistic_Planets_Continued_1.3\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.pdb
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\1.5\Assemblies\Realistic_Planets_Continued.dll
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\1.5\Assemblies\Realistic_Planets_Continued.pdb
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.csproj.AssemblyReference.cache
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.csproj.CoreCompileInputs.cache
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.dll
+K:\CodeProject\C#\RW_Realistic_Planets_Continued_1.5\Source\Realistic Planets\Realistic_Planets_Continued\Realistic_Planets_Continued\obj\Debug\Realistic_Planets_Continued.pdb
