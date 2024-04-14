@@ -1,4 +1,4 @@
-﻿using HarmonyLib;
+using HarmonyLib;
 using RimWorld;
 using System;
 using System.Collections.Generic;
@@ -34,7 +34,7 @@ namespace Planets_Code
 
 		public Controller(ModContentPack content) : base(content)
 		{ 
-			const string Id = "net.windowsxp.rimworld.mod.realisticplanets";
+			const string Id = "net.halfdragonfox.rimworld.mod.realisticplanets";
 
 			var harmony = new Harmony(Id);
 			harmony.PatchAll( Assembly.GetExecutingAssembly() );

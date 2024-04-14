@@ -1,4 +1,6 @@
-﻿using System;
+// 注释此代码以防止在加入SaveOurShip2Experimental后导致生成问题，会产生什么影响需要进行具体的测试才可以知晓
+
+/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,3 +42,4 @@ namespace Planets_Code.Patches.SaveOurShip
 		}
 	}
 }
+*/
