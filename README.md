@@ -3,6 +3,6 @@
 
 此项目目前仅仅是重新引用库并重新编译，然后修改支持版本为1.5，代码方面并没有进行改动。
 
-原项目地址：[点击跳转]https://github.com/Xeraster/RW_Realistic_Planets_Continued_1.3
+原项目地址：[点击跳转](https://github.com/Xeraster/RW_Realistic_Planets_Continued_1.3)
 
 PS:如有侵权请联系我。
